@@ -31,7 +31,7 @@ This C++ project is a Real Estate Portal System built using Windows Forms. It en
 
 Watch a demo of the system in action:
 
-📺 [View on Google Drive](https://drive.google.com/file/d/1WNIpxYEBx4u7I57l7Bez7z2WAFSm2YBP/view?usp=sharing)
+📺 [View the Demo Video](https://drive.google.com/file/d/1WNIpxYEBx4u7I57l7Bez7z2WAFSm2YBP/view?usp=sharing)
 
 ---
 
@@ -39,13 +39,20 @@ Watch a demo of the system in action:
 
 Here are some key visuals of the system in action:
 
-- 🖼️ **Sign In Page** – User authentication interface
-- 🖼️ **User Search** – Property browsing with filtering
-- 🖼️ **Comparison View** – Side-by-side comparison of properties
-- 🖼️ **Manage Requests (Admin)** – Admin interface to approve or reject listings
-- 🖼️ **Moderate Users** – Admin control panel for freezing/unfreezing users
+### 🖼️ Sign In Page
+![Sign In Page](screenshots/signin_page.png)
 
-*(All screenshots are located in the **`screenshots/`** folder.)*
+### 🔍 User Search
+![User Search](screenshots/user_search.png)
+
+### 📊 Comparison View
+![Comparison View](screenshots/comparison_view.png)
+
+### 🛠️ Manage Requests (Admin)
+![Admin Requests](screenshots/admin_manage_requests.png)
+
+### 🔒 Moderate Users
+![Moderate Users](screenshots/admin_moderate_users.png)
 
 ---
 
