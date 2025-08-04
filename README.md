@@ -59,16 +59,20 @@ Here are some key visuals of the system in action:
 ## 📃 Project Structure
 
 ```
-Real_Estate_Portal_System/
-├── loginPage/       → Login page related files
-├── AdminForm/       → Admin dashboard and functionality
-├── UserInterface/   → Forms and UI components for users
-├── PropertyModule/  → Property management logic
-├── data/            → File-based data storage
-├── screenshots/     → Project screenshots
-├── RealEstateSystem.sln
-├── README.md
-└── .gitignore
+Login_Page/
+├── AdminForm.cpp/.h       → Admin interface
+├── Authentication.cpp     → User login and signup logic
+├── FileHandler.cpp/.h     → File I/O for users, properties, balances
+├── Global.cpp/.h          → Shared utilities and variables
+├── MainPage.cpp/.h        → Navigation and main interface
+├── Property.cpp/.h        → Property class and features
+├── UserForm.cpp/.h        → User interface
+├── Users.cpp/.h           → User class and balance logic
+├── Users.txt              → User data file
+├── Properties.txt         → Property data file
+├── CompanyBalance.txt     → Shared admin balance file
+├── Login_Page.sln         → Visual Studio solution file
+└── screenshots/           → GUI snapshots
 ```
 
 ---
@@ -83,6 +87,7 @@ Real_Estate_Portal_System/
 
 ## 👥 Team Members
 
+- Moustafa Mortada
 - Ammar Mohamed
 - Mahmoud Sherif
 - Ali Yehia
