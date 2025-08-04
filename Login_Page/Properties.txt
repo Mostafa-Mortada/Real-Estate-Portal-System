@@ -1,0 +1,13 @@
+4,Townhouse,Luxor,500000,2,1,4,300,0,0,-1,Townhouse for 500000
+5,Duplex,cairo,1000000,2,1,6,200,0,0,-1,duplex for sale
+6,Villa,alex,600000,2,1,10,300,0,0,-1,villa in alex
+7,Apartment,Assuit,250000,3,1,4,250,0,0,-1,
+8,Condominium,cairo,350000,3,1,3,350,0,0,-1,
+9,Townhouse,alex,150000,3,1,5,150,0,0,-1,
+10,Duplex,alex,450000,3,1,7,350,0,0,-1,
+11,Villa,cairo,1000000,3,1,9,650,0,0,-1,
+12,Villa,cairo,1000000,4,3,8,300,0,0,-1,
+13,Apartment,cairo,100000,5,2,4,350,0,0,2,
+14,Apartment,alex,1000000,5,1,3,250,0,0,-1,
+15,Villa,cairo,2000000,5,3,9,600,0,0,-1,
+16,Duplex,cairo,500000,2,2,5,600,1,0,1,

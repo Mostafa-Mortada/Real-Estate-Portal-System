@@ -1,0 +1,6 @@
+1,1,0,admin,admin@gmail.com,12345678,0122154403,0
+2,0,100000,Ammar,z,z,0100980973,0
+3,0,0,Mahmoud,A,12345678,0100890743,0
+4,0,700000,Moustafa,mostafaelemam08@gmail.com,12345678,0122154404,0
+5,0,900000,Moustafa,moustafa@gmail.com,12345678,012214556,1
+6,1,0,new-admin,admin2@gmail.com,12345678,122134556,0
