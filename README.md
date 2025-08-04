@@ -5,7 +5,6 @@
 This C++ project is a Real Estate Portal System built using Windows Forms. It enables users to explore, list, compare, and purchase properties. Admins manage listings and users, while data persistence is handled through local file storage.
 
 ---
-
 ## 🌟 Features
 
 ### 👤 User Functionality
@@ -92,6 +91,21 @@ Login_Page/
 - Mahmoud Sherif
 - Ali Yehia
 - Mohamed Sadek
+
+---
+
+## ▶️ How to Run
+1. Open `Login_Page.sln` in Visual Studio
+2. Build the solution
+3. Run the application
+
+---
+
+## 🔐 Default Admin Credentials
+
+Email: admin@gmail.com
+
+Password: 12345678
 
 ---
 
