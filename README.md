@@ -1,5 +1,5 @@
 # 🏡 Real Estate Portal System
-
+> A robust, GUI-driven property management platform built with C++ and Windows Forms, featuring a dual-tier architecture for Users and Administrators.
 ## 📌 Overview
 
 This C++ project is a Real Estate Portal System built using Windows Forms. It enables users to explore, list, compare, and purchase properties. Admins manage listings and users, while data persistence is handled through local file storage.
